@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="marr1">#040301</color>
+    <color name="marr3">#d0cab8</color>
+    <color name="marr2">#6a5142</color>
+    <color name="marr4">#866e53</color>
+    <color name="marr5">#a29384</color>
+    <color name="blue1">#044168</color>
+    <color name="blue2">#042d49</color>
+    <color name="blue3">#04233b</color>
+    <color name="blue4">#045384</color>
+    <color name="gold">#b2753b</color>
+</resources>
